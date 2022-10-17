@@ -1,0 +1,3 @@
+rootProject.name='MarsRunner'
+include ':app'
+
